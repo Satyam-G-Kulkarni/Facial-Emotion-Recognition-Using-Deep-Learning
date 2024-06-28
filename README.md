@@ -1,5 +1,4 @@
 # Facial-Emotion-Recognition-Using-Deep-Learning
-# Real-Time Emotion Recognition Web App
 
 ## Overview
 This project is a web application that performs real-time emotion recognition using a pre-trained deep learning model. The application consists of a Flask backend server and a JavaScript frontend, which together enable the detection and display of emotions from images captured via webcam.
